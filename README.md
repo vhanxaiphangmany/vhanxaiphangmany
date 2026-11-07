@@ -15,18 +15,8 @@ I am studying various cracking programs.
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/vhanxaiphangmany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a></p>
-<a href="https://www.github.com/vhanxaiphangmany" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/vhanxaiphangmany?logo=github&style=for-the-badge&color=000000&labelColor=181824" /></a>
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/vhanxaiphangmany"><img src="https://github-readme-stats.vercel.app/api?username=vhanxaiphangmany&show_icons=true&hide=&count_private=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=181824&hide_border=true&show_icons=true" alt="vhanxaiphangmany's GitHub stats" /></a>
-
-<a href="http://www.github.com/vhanxaiphangmany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vhanxaiphangmany&stroke=000000&background=181824&ring=000000&fire=000000&currStreakNum=000000&currStreakLabel=000000&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
-
-<a href="https://github.com/vhanxaiphangmany" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhanxaiphangmany&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<a href="http://www.github.com/vhanxaiphangmany"><img src="https://github-readme-stats.vercel.app/api?username=vhanxaiphangmany&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=a855f7&icon_color=000000&bg_color=000000&hide_border=true&show_icons=true" alt="vhanxaiphangmany's GitHub stats" /></a>
